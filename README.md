@@ -1,4 +1,4 @@
-🥋 Travel Around
+##Travel Around
 
     A clean, informative, and fully responsive website for the blog
     
